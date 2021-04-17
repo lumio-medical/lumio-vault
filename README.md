@@ -6,6 +6,8 @@
 ![GitHub](https://img.shields.io/github/license/lumio-medical/lumio-vault)
 [![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Flumio-medical%2Flumio-vault.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Flumio-medical%2Flumio-vault?ref=badge_shield)
 
+This project is now archived, further developments should happen over at [noleme-vault](https://github.com/noleme/noleme-vault).
+
 A library providing DI with JSR-330 annotations and extensible YML/JSON configuration.
 
 Implementations found in this package shouldn't be tied to any specific Lumio project.
